@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://blacn6s3yc88h"
-path="res://.godot/imported/eye_open.png-76a49a2571ee0df872fc0402a3f89d69.ctex"
+path="res://.godot/imported/eye_open.png-138aa1cd55672c314fc3404d5b05a1da.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/gdquest_gdbot/texture/parts/eye_open.png"
-dest_files=["res://.godot/imported/eye_open.png-76a49a2571ee0df872fc0402a3f89d69.ctex"]
+source_file="res://addons/gdquest_gdbot/model/texture/parts/eye_open.png"
+dest_files=["res://.godot/imported/eye_open.png-138aa1cd55672c314fc3404d5b05a1da.ctex"]
 
 [params]
 

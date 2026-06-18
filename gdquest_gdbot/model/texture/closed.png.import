@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dt0veafbpw6ih"
-path="res://.godot/imported/eye_spiral.png-8e8946b707c89c1b1503bf7917ea2cb1.ctex"
+uid="uid://cgja2o4qwiksx"
+path="res://.godot/imported/closed.png-d26157c930e718836e9e98dc6b08b69e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/gdquest_gdbot/texture/parts/eye_spiral.png"
-dest_files=["res://.godot/imported/eye_spiral.png-8e8946b707c89c1b1503bf7917ea2cb1.ctex"]
+source_file="res://addons/gdquest_gdbot/model/texture/closed.png"
+dest_files=["res://.godot/imported/closed.png-d26157c930e718836e9e98dc6b08b69e.ctex"]
 
 [params]
 

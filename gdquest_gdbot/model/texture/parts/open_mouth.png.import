@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://blet3qwl4cbi3"
-path="res://.godot/imported/smile.png-9a2f19f73f823e3167aa8282cb3dd32b.ctex"
+uid="uid://b37rqx42rwpv"
+path="res://.godot/imported/open_mouth.png-a247f205983e60bb7899f64d6427d39a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/gdquest_gdbot/texture/parts/smile.png"
-dest_files=["res://.godot/imported/smile.png-9a2f19f73f823e3167aa8282cb3dd32b.ctex"]
+source_file="res://addons/gdquest_gdbot/model/texture/parts/open_mouth.png"
+dest_files=["res://.godot/imported/open_mouth.png-a247f205983e60bb7899f64d6427d39a.ctex"]
 
 [params]
 

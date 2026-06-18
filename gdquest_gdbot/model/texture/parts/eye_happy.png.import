@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cgja2o4qwiksx"
-path="res://.godot/imported/closed.png-a0d4bb93e3fde0a4a967c304af281c42.ctex"
+uid="uid://cbp882a2a27qw"
+path="res://.godot/imported/eye_happy.png-eb35e5217260ccdefe0dfb7fb0ad53c3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/gdquest_gdbot/texture/closed.png"
-dest_files=["res://.godot/imported/closed.png-a0d4bb93e3fde0a4a967c304af281c42.ctex"]
+source_file="res://addons/gdquest_gdbot/model/texture/parts/eye_happy.png"
+dest_files=["res://.godot/imported/eye_happy.png-eb35e5217260ccdefe0dfb7fb0ad53c3.ctex"]
 
 [params]
 

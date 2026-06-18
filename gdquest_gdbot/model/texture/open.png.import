@@ -2,20 +2,21 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cbp882a2a27qw"
-path="res://.godot/imported/eye_happy.png-6c8a35e5f4c65dfa2cdac1f4ea7438f7.ctex"
+uid="uid://diovavdu1x8kw"
+path.s3tc="res://.godot/imported/open.png-6e0d4fb783544f5502876c5133b6f614.s3tc.ctex"
 metadata={
-"vram_texture": false
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
 }
 
 [deps]
 
-source_file="res://addons/gdquest_gdbot/texture/parts/eye_happy.png"
-dest_files=["res://.godot/imported/eye_happy.png-6c8a35e5f4c65dfa2cdac1f4ea7438f7.ctex"]
+source_file="res://addons/gdquest_gdbot/model/texture/open.png"
+dest_files=["res://.godot/imported/open.png-6e0d4fb783544f5502876c5133b6f614.s3tc.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=2
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/uastc_level=0
@@ -23,7 +24,7 @@ compress/rdo_quality_loss=0.0
 compress/hdr_compression=1
 compress/normal_map=0
 compress/channel_pack=0
-mipmaps/generate=false
+mipmaps/generate=true
 mipmaps/limit=-1
 roughness/mode=0
 roughness/src_normal=""
@@ -37,4 +38,4 @@ process/normal_map_invert_y=false
 process/hdr_as_srgb=false
 process/hdr_clamp_exposure=false
 process/size_limit=0
-detect_3d/compress_to=1
+detect_3d/compress_to=0
